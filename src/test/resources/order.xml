@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<order>
+    <id>1</id>
+    <line>
+        <id>1</id>
+        <description>order line 1</description>
+    </line>
+    <line>
+        <id>2</id>
+        <description>order line 2</description>
+    </line>
+</order>
